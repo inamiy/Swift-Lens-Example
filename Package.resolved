@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Prelude",
+        "repositoryURL": "https://github.com/pointfreeco/swift-prelude.git",
+        "state": {
+          "branch": "5d5005d",
+          "revision": "5d5005d0fc0c0292725054d005b6a4be9ad0ae0c",
+          "version": null
+        }
+      },
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/pointfreeco/swift-snapshot-testing.git",
+        "state": {
+          "branch": "69b48c8",
+          "revision": "69b48c8487ef8207170aee02485c40f9cafc79c8",
+          "version": null
+        }
+      },
+      {
+        "package": "Tagged",
+        "repositoryURL": "https://github.com/pointfreeco/swift-tagged.git",
+        "state": {
+          "branch": null,
+          "revision": "d53900894206f9453a837b566f2805c0f9c86967",
+          "version": "0.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
